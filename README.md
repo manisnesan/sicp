@@ -10,10 +10,10 @@ Group](https://groups.google.com/forum/?fromgroups#!forum/grenoblerb).
 For everything you need (PDF ebook, code and projects), simply clone
 this repo and see the links below.
 
-There is a full-blown [MIT OpenCourseWare class for
-SICP](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
-directly linked below).  It has a study group/forum, lecture notes and
-video, reading list, tools, and additional resources.
+There is also an [MIT OpenCourseWare class for
+SICP](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/).
+It has a study group/forum, lecture notes and video, reading list,
+tools, and additional resources.
 
 Resources
 ---------
