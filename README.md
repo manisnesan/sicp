@@ -3,8 +3,9 @@ Introduction
 
 We are reading SICP in September, feel free to join us.
 
-The standard reading of SICP is 26 lectures, our schedule is in a Google
-Calendar.  We collaborate using IRC and our Google Group.
+The standard reading of SICP is 26 lectures.  Our schedule is in a
+Google Calendar and discussion is in our [Google
+Group](https://groups.google.com/forum/?fromgroups#!forum/grenoblerb).
 
 For everything you need (PDF ebook, code and projects), simply clone
 this repo and see the links below.
